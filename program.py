@@ -50,6 +50,5 @@ buffer = bytes([
 
 # Overwriting 2)
 bytes_written = WriteFile(hDevice, buffer, None)
-print("Wrote", bytes_written, "i")
 
 CloseHandle(hDevice)
