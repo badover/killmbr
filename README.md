@@ -1,4 +1,4 @@
-# For educational purposes only|
+# For educational purposes only !
 # killmbr
 Simple way to overwrite mbr with python
 
