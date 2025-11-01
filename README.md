@@ -12,7 +12,7 @@ pip install pywin32
 ```bash
 pip install auto-py-to-exe
 ```
-### Convert to exe
+#### Convert to exe
 ```bash
 auto-py-to-exe
 ```
